@@ -1,0 +1,10 @@
+.vscode/*
+.history/
+node_modules/
+
+# Mac/OSX
+.DS_Store
+
+build/
+dist/
+.env
